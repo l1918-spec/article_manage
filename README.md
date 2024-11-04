@@ -69,4 +69,3 @@ To set up the Simple Article Management Application locally, follow these steps:
    
 lydiacharif02@gmail.com
 
-
